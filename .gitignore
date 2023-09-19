@@ -4,3 +4,9 @@ node_modules
 .yarn/*
 !.yarn/plugins
 !.yarn/releases
+# Coverage directory
+.nyc_output
+
+# Dependency directory
+
+.DS_Store
