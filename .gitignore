@@ -8,5 +8,5 @@ node_modules
 .nyc_output
 
 # Dependency directory
-
+.env
 .DS_Store
